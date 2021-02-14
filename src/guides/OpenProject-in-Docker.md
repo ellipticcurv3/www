@@ -13,42 +13,13 @@ permalink: /guides/openproject-in-docker
 
 # Running OpenProject Community Edition in Docker
 
-OpenProject is an open source web-based project administration tool and Docker is a tool for downloading software *images* for running them inside *containers*. Those containers could be set up very quickly without the hassle that comes with the installation of regular, native applications (e.g. setting the right permissions, bloat the file system with lots of files everywhere, messing up your configuration).
-
-Docker also makes it straightforward to completely remove images and containers, leaving no garbage on your system after removal. And, as an extra, Docker also allows to run multiple instances of the same image(s) simultaneously.
+OpenProject is an open source web-based project administration tool.
 
 This article guides you through installing OpenProject in Docker in an easy and professional way, so that you could set it up quickly without headaches and take your next project(s) to a new level.
 
 ## Step 1: Setting up Docker.io
 
-First thing you'll need to do is to install Docker
-
-````sh
-sudo apt install docker.io
-````
-
-Then, add your current user to the `docker` group
-
-```sh
-sudo gpasswd -a $USER docker && newgrp docker
-```
-
-After that, try to run the `hello-world` docker-image to test if all permissions are set up correctly and your Docker installation works
-
-````sh
-docker run hello-world
-````
-
-Docker should begin downloading the `hello-world` image and run it immediately, and shows the following output:
-
-```
-Hello from Docker!
-This message shows that your installation appears to be working correctly.
-
-(...)
-```
-
-Nice, it works.
+First thing you'll need to do is to install Docker. If you haven't already set up Docker on your system, [read this guide][1]
 
 ## Step 2: The installation of OpenProject
 
@@ -181,3 +152,8 @@ Not happy with OpenProject? Removal is easy.
 1. `docker container stop openproject`
 2. `docker container rm openproject`
 3. `sudo rm -r /var/lib/openproject/`
+
+
+
+[1]: /setting-up-docker	"Guide: Setting up Docker"
+
