@@ -4,12 +4,20 @@ import type { DefaultThemeOptions } from "@vuepress/theme-default";
 import { chalk, logger } from "@vuepress/utils";
 import { navbar, sidebar } from "./configs";
 import path from "path";
+import type { WebpackBundlerOptions } from "@vuepress/bundler-webpack";
 
-const config: UserConfig<DefaultThemeOptions> = {
+const config: UserConfig<DefaultThemeOptions, WebpackBundlerOptions> = {
   base: "/",
   dest: "dist",
-
   theme: path.resolve(__dirname, "theme"),
+
+  bundlerConfig: {
+    stylus: {
+      stylusOptions: {
+        include: [path.resolve(__dirname, "theme", "styles")],
+      },
+    },
+  },
 
   head: [
     [
