@@ -5,7 +5,7 @@ lang: en-GB
 excerpt: "Ever wondered how to run Keybase on Tails? I got you covered."
 category: "Linux"
 tags: ["linux", "tails", "keybase"]
-contributors: ["jms1", "ricardobalk", "themurray"]
+contributors: ["jms1", "northcampr", "themurray"]
 permalink: /guides/keybase-on-tails/
 ---
 
@@ -225,8 +225,8 @@ Assuming all goes well, this will take a few seconds to start things up, and the
 
 Originally written by [John Simpson][] (10-AUG-2019)
 
-Edited for modern Tails 4.12 by [Ricardo Balk][] (07-NOV-2020)
+Edited for modern Tails 4.12 by [Richard Northcamp][] (07-NOV-2020)
 
 [Tails]: https://tails.boum.org "Website of Tails, The Amnesic Incognito Live System"
 [John Simpson]: https://keybase.io/jms1 "Keybase profile of John Simpson"
-[Ricardo Balk]: https://keybase.io/ricardobalk "Keybase profile of Ricardo Balk"
+[Richard Northcamp]: https://keybase.io/northcampr "Keybase profile of Richard Northcamp"

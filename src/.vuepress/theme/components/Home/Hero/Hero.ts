@@ -6,7 +6,7 @@ export default defineComponent({
     name: {
       type: String,
       required: true,
-      default: "Ricardo Balk",
+      default: "Richard Northcamp",
     },
     occupation: {
       type: String,

@@ -9,7 +9,7 @@ The first step is to pull my website's Docker image from Docker Hub, or build it
 **Pull from Docker Hub (recommended)**
 
 ```sh
-docker pull ricardobalk/website
+docker pull northcampr/website
 ```
 
 **Build it yourself**
@@ -17,7 +17,7 @@ docker pull ricardobalk/website
 Assuming you've cloned this repository and are currently in the directory where the Dockerfile resides...
 
 ```sh
-docker build -t ricardobalk/website .
+docker build -t northcampr/website .
 ```
 
 ## 2) Run Docker image in a container.
@@ -31,7 +31,7 @@ The second step is to run the freshly created _image_ in a _container_. You coul
 docker run --rm \
   --mount type=bind,source="$(pwd)"/src/,target=/home/node/app/src/,readonly \
   -p 8080:8080 \
-  ricardobalk/website "dev"
+  northcampr/website "dev"
 ```
 
 This will launch a dev server which you could use to tinker and try things. After a while, visit http://localhost:8080/. You're good to go.
@@ -48,7 +48,7 @@ mkdir -p ./dist/
 docker run --rm \
   --mount type=bind,source="$(pwd)"/src/,target=/home/node/app/src/,readonly \
   --mount type=bind,source="$(pwd)"/dist/,target=/home/node/app/dist/ \
-  ricardobalk/website "build"
+  northcampr/website "build"
 ```
 
 This will build the website and place the result in `dist/`. You can use your own server to serve this directory.
@@ -62,7 +62,7 @@ Although I don't expect **you** to deploy **my** website, here are the instructi
 Build the website using the instructions above. After that, use `rsync` to push the contents of `dist/` to your server.
 
 ```sh
-rsync -ru dist/. ricardobalk.nl:/var/www/ricardobalk.nl --delete
+rsync -ru dist/. northcamp.me:/var/www/northcamp.me --delete
 ```
 
 That was easy! Build and upload. No need for heavy back-ends and complex databases. This is possible because we're working with a JAMstack website. :tada:
@@ -72,7 +72,7 @@ P.S. If you're not using Linux, macOS or WSL, you could also upload the contents
 **REMOVAL**
 
 ```sh
-docker image rm ricardobalk/website
+docker image rm northcampr/website
 ```
 
 This will remove the image. Removal of the containers is not necessary because the `--rm` flag was used. However, if there still are containers that depend on the image, Docker will notify you :wink:

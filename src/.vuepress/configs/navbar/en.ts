@@ -27,7 +27,7 @@ export const en: NavbarConfig = [
           "/privacy/",
           {
             text: "Source code",
-            link: "https://github.com/ricardobalk/website",
+            link: "https://github.com/northcampr/website",
           },
           {
             text: "Tor version",
@@ -40,11 +40,11 @@ export const en: NavbarConfig = [
         children: [
           {
             text: "GitHub",
-            link: "https://github.com/ricardobalk",
+            link: "https://github.com/northcampr",
           },
           {
             text: "Twitter",
-            link: "https://twitter.com/ricardobalk",
+            link: "https://twitter.com/northcampr",
           },
         ],
       },
@@ -53,11 +53,11 @@ export const en: NavbarConfig = [
         children: [
           {
             text: "Send me a drink on Ko-Fi",
-            link: "https://ko-fi.com/ricardobalk",
+            link: "https://ko-fi.com/northcampr",
           },
           {
             text: "Sponsor me on a monthly basis",
-            link: "https://github.com/sponsors/ricardobalk",
+            link: "https://github.com/sponsors/northcampr",
           },
         ],
       },

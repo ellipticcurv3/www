@@ -1,5 +1,5 @@
 <template>
-  <section class="about" title="Information about Ricardo" tabindex="0">
+  <section class="about" title="Information about Richard" tabindex="0">
     <div class="g-row">
       <div class="c-sm-12 c-md-offset-1 c-md-10 c-lg-offset-2 c-lg-8 inner-container">
         <div class="g-row g-justify-center">

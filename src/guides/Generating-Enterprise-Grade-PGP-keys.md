@@ -33,12 +33,12 @@ An enterprise-grade PGP key generally consists of a master key pair with differe
 
 Below, you’ll see my PGP key, with usage flags:
 
-`cv3% gpg -k 'BE7C4481E0566291B494D2A16FB4A124C63718C6'`
+`cv3% gpg -k 'DECF5A3B77D819B0C44E5163A8C8D4B4CC774A92'`
 
 ```
 pub   ed25519 2018-01-01 [C] [expires: 2050-01-01]
-      BE7C4481E0566291B494D2A16FB4A124C63718C6
-uid           [ultimate] Ricardo Balk (Modern)
+      DECF5A3B77D819B0C44E5163A8C8D4B4CC774A92
+uid           [ultimate] Richard Northcamp (Modern)
 sub   ed25519 2018-01-01 [S] [expires: 2023-01-01]
 sub   ed25519 2018-01-01 [A] [expires: 2023-01-01]
 sub   cv25519 2018-01-01 [E] [expires: 2023-01-01]

@@ -4,13 +4,13 @@ home: true
 title: Home
 
 heroText:
-  - Ricardo Balk
+  - Richard Northcamp
   - Digital Designer & Front-end Developer
   - Creative • Passionate • Exploring
 
 polaroidImage:
   caption: Photo of me in 2015
-  path: /assets/img/content/home/ricardo.webp
+  path: /assets/img/content/home/richard.webp
 
 services:
   title: Things I could help you with
@@ -42,11 +42,11 @@ successStories:
   stories:
   - name: Dirk Goossens
     title: Former employer at Sollicity
-    story: Ricardo takes pride in his profession. He knows a lot of it and has a great ambition to always learn more. He is upbeat and sociale and I very much appreciated his time with Sollicity.
+    story: Richard takes pride in his profession. He knows a lot of it and has a great ambition to always learn more. He is upbeat and sociale and I very much appreciated his time with Sollicity.
     avatar: /assets/img/content/home/success-stories/dirk.webp
   - name: Niels de Bont
     title: Assistant during freelance assignment
-    story: Ricardo and I made an impressive business movie during the summer of 2016. Ricardo works in a structured and considerate way, which made us able to reach our goals in a short time. It was a pleasure working with him.
+    story: Richard and I made an impressive business movie during the summer of 2016. Richard works in a structured and considerate way, which made us able to reach our goals in a short time. It was a pleasure working with him.
     avatar: /assets/img/content/home/success-stories/niels.webp
 
 nextMove:
@@ -57,11 +57,11 @@ nextMove:
     - serviceName: "Email"
       icon: ["fas", "envelope"]
       title: "Contact me by sending an email"
-      url: "mailto:ricardo@ricardobalk.nl"
+      url: "mailto:richard@northcamp.me"
     - serviceName: "GitHub"
       icon: ["fab", "github"]
       title: "My profile on GitHub, a platform for open source software development"
-      url: "https://github.com/ricardobalk"
+      url: "https://github.com/northcampr"
     - serviceName: "Telephone"
       icon: ["fas", "phone"]
       title: "Contact me by phone"

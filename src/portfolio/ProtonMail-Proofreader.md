@@ -24,8 +24,3 @@ I'm one of the proofreaders of the Dutch translations for ProtonMail, an end-to-
 - Making agreements upon usage of language and grammar choices
 - Solving language issues and challenges (e.g. some words don't have a one-on-one translation from English to Dutch, so it requires some creativity)
 - Maintaining a Glossary and helping resolve common errors (e.g. some technical stuff that goes wrong)
-
-## External links
-
-- [My Profile on CrowdIn](https://crowdin.com/profile/ricardo9375712)
-- [My Translation Activity](https://crowdin.com/profile/ricardo9375712/activity)

@@ -10,8 +10,8 @@
             <font-awesome-icon :icon="['fas', 'mug-hot']" class="icon" title="coffee" size="sm" />
             and some
             <font-awesome-icon :icon="['fas', 'code']" class="icon" title="code" size="sm" />
-            by Ricardo Balk. Source code available on
-            <a href="https://github.com/ricardobalk/website" target="_blank"
+            by Richard Northcamp. Source code available on
+            <a href="https://github.com/northcampr/website" target="_blank"
               ><font-awesome-icon :icon="['fab', 'github']" class="icon" title="GitHub" size="sm" />.</a
             >
           </p>

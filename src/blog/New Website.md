@@ -54,4 +54,4 @@ There are a number of improvements that are on my to-do list.
 
 - **Contact form** &mdash; A contact form is missing as well...
 
-Curious about the status of these (and other) improvements? Check out the [issues on GitHub](https://github.com/ricardobalk/www/issues)!
+Curious about the status of these (and other) improvements? Check out the [issues on GitHub](https://github.com/northcampr/website/issues)!

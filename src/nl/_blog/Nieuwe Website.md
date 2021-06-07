@@ -52,4 +52,4 @@ Er zijn een aantal toekomstige verbeteringen die op mijn to-do-lijstje staan.
 
 - **Contactformulier** &mdash; Ook een contactformulier ontbreekt nog.
 
-Benieuwd naar de status van deze (en andere) verbeteringen? Check de [issues op GitHub](https://github.com/ricardobalk/www/issues)!
+Benieuwd naar de status van deze (en andere) verbeteringen? Check de [issues op GitHub](https://github.com/northcampr/website/issues)!

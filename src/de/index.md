@@ -4,13 +4,13 @@ home: true
 title: Home
 
 heroText:
-  - Ricardo Balk
+  - Richard Northcamp
   - Digitaler Designer & Front-End-Webentwickler
   - Kreativ • Leidenschaftlich • Einfallsreich
 
 polaroidImage:
   caption: Bild von mir im Jahr 2015
-  path: /assets/img/content/home/ricardo.webp
+  path: /assets/img/content/home/richard.webp
 
 services:
   title: "Mein Fachwissen"
@@ -44,11 +44,11 @@ successStories:
   stories:
     - name: Dirk Goossens
       title: Ehemaliger Arbeitgeber bei Sollicity
-      story: Ricardo ist stolz auf seinen Beruf. Er weiß viel darüber und hat den großen Ehrgeiz, immer mehr zu lernen. Er ist fröhlich, sozial und seine Zeit bei Sollicity hat mir gut gefallen.
+      story: Richard ist stolz auf seinen Beruf. Er weiß viel darüber und hat den großen Ehrgeiz, immer mehr zu lernen. Er ist fröhlich, sozial und seine Zeit bei Sollicity hat mir gut gefallen.
       avatar: /assets/img/content/home/success-stories/dirk.webp
     - name: Niels de Bont
       title: Assistent tijdens filmopnamen ELDA
-      story: Ricardo und ich haben im Sommer 2016 einen guten Unternehmensfilm erstellt. Ricardo arbeitet strukturiert, deshalb haben wir schnell einen guten Film erstellt. Es war eine angenehme Zeit.
+      story: Richard und ich haben im Sommer 2016 einen guten Unternehmensfilm erstellt. Richard arbeitet strukturiert, deshalb haben wir schnell einen guten Film erstellt. Es war eine angenehme Zeit.
       avatar: /assets/img/content/home/success-stories/niels.webp
 
 nextMove:
@@ -59,11 +59,11 @@ nextMove:
     - serviceName: "Email"
       icon: ["fas", "envelope"]
       title: "Kontaktieren Sie mich per E-Mail"
-      url: "mailto:ricardo@ricardobalk.nl"
+      url: "mailto:richard@northcamp.me"
     - serviceName: "GitHub"
       icon: ["fab", "github"]
       title: "Sehen Sie sich mein Online-Profil auf GitHub an, einer Plattform für Open Source-Softwareentwicklung"
-      url: "https://github.com/ricardobalk"
+      url: "https://github.com/northcampr"
     - serviceName: "Telephone"
       icon: ["fas", "phone"]
       title: "Ruf mich an"

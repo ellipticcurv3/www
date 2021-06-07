@@ -20,9 +20,8 @@ Photography is also my semi-professional hobby and I occasionally take my Canon 
 
 ## What to do next?
 
-Go [follow me on Unsplash](https://unsplash.com/ricardobalk). Download the photographs you like. Use them, mix them, do whatever you want with them. I would definitely appreciate it if you give me some credits, but it is not required at all.
+Go [follow me on Unsplash](https://unsplash.com/brightshots). Download the photographs you like. Use them, mix them, do whatever you want with them. I would definitely appreciate it if you give me some credits, but it is not required at all.
 
-### Follow me on Unsplash (&amp; Instagram)
+### Follow me on Unsplash
 
-- Follow me on Unsplash: [unsplash.com/ricardobalk](https://unsplash.com/ricardobalk)
-- Follow me on Instagram: [instagram.com/ricardos.photography](https://instagram.com/ricardos.photography)
+- Follow me on Unsplash: [unsplash.com/brightshots](https://unsplash.com/brightshots)

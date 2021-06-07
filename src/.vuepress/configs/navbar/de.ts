@@ -15,7 +15,7 @@ export const de: NavbarConfig = [
           "/privacy/",
           {
             text: "Quellcode",
-            link: "https://github.com/ricardobalk/website",
+            link: "https://github.com/northcampr/website",
           },
           {
             text: "Tor-Version",
@@ -41,15 +41,15 @@ export const de: NavbarConfig = [
         ],
       },
       {
-        text: "Ricardo auf Social Media",
+        text: "Richard auf Social Media",
         children: [
           {
             text: "GitHub",
-            link: "https://github.com/ricardobalk",
+            link: "https://github.com/northcampr",
           },
           {
             text: "Twitter",
-            link: "https://twitter.com/ricardobalk",
+            link: "https://twitter.com/northcampr",
           },
         ],
       },
@@ -58,11 +58,11 @@ export const de: NavbarConfig = [
         children: [
           {
             text: "Einmaliges Sponsoring (Ko-Fi.com)",
-            link: "https://ko-fi.com/ricardobalk",
+            link: "https://ko-fi.com/northcampr",
           },
           {
             text: "Monatliches Sponsoring (GitHub Sponsors)",
-            link: "https://github.com/sponsors/ricardobalk",
+            link: "https://github.com/sponsors/northcampr",
           },
         ],
       },

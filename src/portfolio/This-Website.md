@@ -3,13 +3,13 @@ type: portfolio
 date: 2019-04-05 09:00:00 +02:00
 lang: en-GB
 excerpt: "I made this website entirely myself."
-client: Ricardo Balk
+client: Richard Northcamp
 category: Front-end Development
 tags: ["personal", "website", "job", "blog", "portfolio"]
 images:
   featured:
-    filename: "website-ricardobalk.webp"
-    description: "Website of Ricardo Balk"
+    filename: "website-northcampr.webp"
+    description: "Website of Richard Northcamp"
 permalink: "/portfolio/my-website/"
 ---
 
@@ -54,7 +54,7 @@ There are many, many reasons.
 
 ## Where's the source code?
 
-It's on [GitHub](https://github.com/ricardobalk/www).
+It's on [GitHub](https://github.com/northcampr/website).
 
 ## What's next?
 

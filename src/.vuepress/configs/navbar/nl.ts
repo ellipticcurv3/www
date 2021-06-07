@@ -19,7 +19,7 @@ export const nl: NavbarConfig = [
           "/nl/privacy/",
           {
             text: "Broncode",
-            link: "https://github.com/ricardobalk/website",
+            link: "https://github.com/northcampr/website",
           },
           {
             text: "Tor-versie",
@@ -41,15 +41,15 @@ export const nl: NavbarConfig = [
         ],
       },
       {
-        text: "Ricardo op Social Media",
+        text: "Richard op Social Media",
         children: [
           {
             text: "GitHub",
-            link: "https://github.com/ricardobalk",
+            link: "https://github.com/northcampr",
           },
           {
             text: "Twitter",
-            link: "https://twitter.com/ricardobalk",
+            link: "https://twitter.com/northcampr",
           },
         ],
       },
@@ -58,11 +58,11 @@ export const nl: NavbarConfig = [
         children: [
           {
             text: "Eenmalig sponsoren (Ko-Fi.com)",
-            link: "https://ko-fi.com/ricardobalk",
+            link: "https://ko-fi.com/northcampr",
           },
           {
             text: "Maandelijks sponsoren (GitHub Sponsors)",
-            link: "https://github.com/ricardobalk",
+            link: "https://github.com/northcampr",
           },
         ],
       },

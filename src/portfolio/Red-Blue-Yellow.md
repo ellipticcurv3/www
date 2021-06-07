@@ -25,20 +25,5 @@ Red Blue Yellow is an Unity (C#) game made by me and fellow students from my uni
 
 ## More information
 
-- Are you looking to play the game online? [Head over to this place](https://ricardobalk.keybase.pub/RedBlueYellow-WebGL/)
-- Are you looking to download and play the game on Windows? [Head over to the releases on GitHub](https://github.com/ricardobalk/RedBlueYellow/releases/latest)
-- Are you looking for the source code? [Head over to the GitHub Repository](https://github.com/ricardobalk/RedBlueYellow)
-
-### People involved in this project
-
-#### Students
-
-- [Ricardo Balk](https://www.linkedin.com/in/ricardo-nederland)
-- [Niels de Bont](https://www.linkedin.com/in/niels-de-bont-3169a185/)
-- [Max Douven](https://www.linkedin.com/in/max-douven-5b3365144/)
-- [Job Poels](https://www.linkedin.com/in/job-poels-581125b9/)
-
-#### Lecturers
-
-- [Arthur Bennis](https://www.linkedin.com/in/arthurbennis/)
-- [Theo Theunissen](https://www.linkedin.com/in/theo-theunissen-83246a/)
+- Are you looking to download and play the game on Windows? [Head over to the releases on GitHub](https://github.com/northcampr/RedBlueYellow/releases/latest)
+- Are you looking for the source code? [Head over to the GitHub Repository](https://github.com/northcampr/RedBlueYellow)

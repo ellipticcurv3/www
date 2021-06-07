@@ -51,17 +51,17 @@ const config: UserConfig<DefaultThemeOptions> = {
   locales: {
     "/": {
       lang: "en-GB",
-      title: "Ricardo Balk",
+      title: "Richard Northcamp",
       description: "Personal website with blog, guides and portfolio.",
     },
     "/nl/": {
       lang: "nl-NL",
-      title: "Ricardo Balk",
+      title: "Richard Northcamp",
       description: "Persoonlijke website met blog, handleidingen en portfolio.",
     },
     "/de/": {
       lang: "de-DE",
-      title: "Ricardo Balk",
+      title: "Richard Northcamp",
       description: "Persönliche Website mit Blog, Guides und Portfolio.",
     },
   },
@@ -69,7 +69,7 @@ const config: UserConfig<DefaultThemeOptions> = {
   themeConfig: {
     logo: "/assets/img/site/global/logo.svg",
 
-    // repo: 'ricardobalk/website',
+    // repo: 'northcampr/website',
 
     docsDir: "src",
 

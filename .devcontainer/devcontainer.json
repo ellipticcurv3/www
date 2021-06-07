@@ -1,5 +1,5 @@
 {
-  "name": "Ricardo's Personal Website",
+  "name": "Richard's Personal Website",
   "build": {
     "dockerfile": "./Dockerfile"
   },

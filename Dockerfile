@@ -26,7 +26,7 @@ EXPOSE 8080
 
 ENTRYPOINT ["yarn", "run"]
 
-# The default is to run a development version of the website. People can do `docker run --rm -p 8080:8080 -it ricardobalk/website`.
-# (equals to `docker run --rm -p 8080:8080 -it ricardobalk/website "start"`) and see the website on http://localhost:8080.
+# The default is to run a development version of the website. People can do `docker run --rm -p 8080:8080 -it northcampr/website`.
+# (equals to `docker run --rm -p 8080:8080 -it northcampr/website "start"`) and see the website on http://localhost:8080.
 
 CMD ["dev"] # start | dev | build | serve | build:serve ... see package.json ;-)

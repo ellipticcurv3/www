@@ -4,13 +4,13 @@ home: true
 title: Home
 
 heroText:
-  - Ricardo Balk
+  - Richard Noordkamp
   - Digitale Designer & Front-end Developer
   - Creatief • Gepassioneerd • Vindingrijk
 
 polaroidImage:
   caption: Foto van mij in 2015
-  path: /assets/img/content/home/ricardo.webp
+  path: /assets/img/content/home/richard.webp
 
 services:
   title: "Mijn expertises"
@@ -44,11 +44,11 @@ successStories:
   stories:
     - name: Dirk Goossens
       title: Voormalig werkgever bij Sollicity
-      story: Ricardo is trots op zijn beroep. Hij weet er veel van en heeft een grote ambitie om altijd meer te leren. Hij is vrolijk, sociaal en ik waardeerde zijn tijd bij Sollicity.
+      story: Richard is trots op zijn beroep. Hij weet er veel van en heeft een grote ambitie om altijd meer te leren. Hij is vrolijk, sociaal en ik waardeerde zijn tijd bij Sollicity.
       avatar: /assets/img/content/home/success-stories/dirk.webp
     - name: Niels de Bont
       title: Assistent tijdens filmopnamen ELDA
-      story: Ricardo en ik hebben in de zomer van 2016 een goede bedrijfsfilm gemaakt. Ricardo werkt op een gestructureerde manier, waardoor we vlot een goede film maakten. Het was een prettige samenwerking.
+      story: Richard en ik hebben in de zomer van 2016 een goede bedrijfsfilm gemaakt. Richard werkt op een gestructureerde manier, waardoor we vlot een goede film maakten. Het was een prettige samenwerking.
       avatar: /assets/img/content/home/success-stories/niels.webp
 
 nextMove:
@@ -59,11 +59,11 @@ nextMove:
     - serviceName: "Email"
       icon: ["fas", "envelope"]
       title: "Neem contact op met mij via een e-mail"
-      url: "mailto:ricardo@ricardobalk.nl"
+      url: "mailto:richard@northcamp.me"
     - serviceName: "GitHub"
       icon: ["fab", "github"]
       title: "Bekijk mijn online profiel op GitHub, een platform voor open source softwareontwikkeling"
-      url: "https://github.com/ricardobalk"
+      url: "https://github.com/northcampr"
     - serviceName: "Telephone"
       icon: ["fas", "phone"]
       title: "Bel me op"
